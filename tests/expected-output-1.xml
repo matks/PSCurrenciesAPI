@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<currencies>
+  <source iso_code="EUR"/>
+  <list>
+    <currency iso_code="AED" rate="1.001212"/>
+    <currency iso_code="AFN" rate="2"/>
+    <currency iso_code="XYZ" rate="3.001"/>
+    <currency iso_code="USD" rate="7.88"/>
+  </list>
+</currencies>
