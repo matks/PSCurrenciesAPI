@@ -17,3 +17,9 @@ php test/test1.php
 php test/test2.php
 php test/test3.php
 ```
+
+or
+
+```
+$ tests/run.sh
+```
