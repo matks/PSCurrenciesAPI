@@ -28,4 +28,4 @@ jobs:
         with:
           fetch-depth: 0
 
-      - run: ./tests/run.sh
+      - run: bash ./tests/run.sh
